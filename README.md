@@ -1,4 +1,7 @@
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
+### Issue with .io
+The Issue with the github pages site is that pictures are not loaded and the dimensions are off. 
+However when you copy and paste the code in a new window the pages are all corrected.
 
 ## Background
 
